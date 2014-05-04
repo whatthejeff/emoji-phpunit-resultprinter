@@ -1,3 +1,5 @@
+<p><img alt="Screenshot of the Emoji result printer for PHPUnit" src="https://github.com/whatthejeff/emoji-phpunit-resultprinter/raw/master/emoji.png"></p>
+
 ## Requirements
 
 The Emoji result printer for PHPUnit requires: 
